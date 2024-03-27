@@ -1,6 +1,6 @@
 ## 💻 Exportação para Excel com Vue.js
 
-- Código de Exportação para Excel construído utilizando framework Laravel e Vue.js.
+- Código de projeto de exportação de dados para Excel construído utilizando framework Laravel e Vue.js.
 
 ☑️ Código desenvolvido com o objetivo de se aprofundar nas atualizações do Vue.js.
 
