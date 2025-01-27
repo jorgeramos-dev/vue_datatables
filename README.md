@@ -21,8 +21,8 @@ Neste projeto foram utilizadas as seguintes tecnologias:
 ☑️ Código desenvolvido com o objetivo de se aprofundar nas atualizações do Vue.js.
 
 ## 💻 Telas
-https://github.com/user-attachments/assets/86597f2d-66c1-4d1f-8852-81b492fc61a2
+<img src="https://github.com/user-attachments/assets/86597f2d-66c1-4d1f-8852-81b492fc61a2">
 
-https://github.com/user-attachments/assets/3a8eb9ff-52e6-4eb5-9697-8c1fce8db0f3
+<img src="https://github.com/user-attachments/assets/3a8eb9ff-52e6-4eb5-9697-8c1fce8db0f3">
 
 
